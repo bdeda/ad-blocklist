@@ -1,0 +1,16 @@
+# ad-blocklist: domains to block via Pi-hole
+# Format: one domain per line (Pi-hole "domain list" / hosts-style).
+# Add as: Pi-hole > Adlists > paste the raw URL of this file.
+#
+# Source: Space.com Orionid meteor shower article (inspected 2026-10-25).
+# Only domains verified from the page are listed. Affiliate redirects
+# (goto.walmart.com) and "advertise with us" links are intentionally excluded.
+
+# --- Trackers / measurement ---
+sb.scorecardresearch.com
+
+# --- Ad networks / ad servers ---
+# (add domains observed in the Pi-hole query log or DevTools Network tab)
+
+# --- Sponsored content widgets ---
+# (none recorded yet)
