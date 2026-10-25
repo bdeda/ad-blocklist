@@ -13,3 +13,34 @@ kwizly.com
 # Affiliate "deals" widgets (TechRadar / Future hawk)
 hawk.techradar.com
 widgets.hawk-assets.co.uk
+
+# --- html-load.com / content-loader.com anti-adblock rotation (observed on space.com) ---
+# Adlists are exact-match, so each rotating subdomain has to be listed.
+# A Pi-hole regex filter  (^|\.)(html-load|content-loader)\.com$  covers them all.
+fb.content-loader.com
+fb.stg.content-loader.com
+0.fb.stg.content-loader.com
+1.fb.stg.content-loader.com
+2.fb.stg.content-loader.com
+3.fb.stg.content-loader.com
+4.fb.stg.content-loader.com
+5.fb.stg.content-loader.com
+6.fb.stg.content-loader.com
+7.fb.stg.content-loader.com
+8.fb.stg.content-loader.com
+9.fb.stg.content-loader.com
+0.fb.stg.html-load.com
+1.fb.stg.html-load.com
+2.fb.stg.html-load.com
+3.fb.stg.html-load.com
+4.fb.stg.html-load.com
+5.fb.stg.html-load.com
+6.fb.stg.html-load.com
+7.fb.stg.html-load.com
+8.fb.stg.html-load.com
+9.fb.stg.html-load.com
+
+# --- ad exchange / ID-sync trackers ---
+a2839.casalemedia.com
+6475c27a-043b-445e-bb21-62ec1aff587d-netseer-ipaddr-assoc.xy.fbcdn.net
+6475c27a-043b-445e-bb21-62ec1aff587d-netseer-ipaddr-assoc.xz.fbcdn.net
