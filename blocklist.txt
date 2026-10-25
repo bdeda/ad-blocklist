@@ -16,3 +16,7 @@ a2839.casalemedia.com
 6475c27a-043b-445e-bb21-62ec1aff587d-netseer-ipaddr-assoc.xy.fbcdn.net
 6475c27a-043b-445e-bb21-62ec1aff587d-netseer-ipaddr-assoc.xz.fbcdn.net
 
+# --- ad / tracking pixels seen on space.com (medium confidence) ---
+phx.bmtrcs.com
+nodals.io
+pixel-580839345669.us-central1.run.app
