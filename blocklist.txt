@@ -1,0 +1,15 @@
+# bdeda ad blocklist
+# One domain per line; compatible with Pi-hole adlists (Group Management > Adlists).
+
+# --- space.com / Future plc ---
+# Ad-recovery / anti-adblock subdomains (html-load.com itself is already blocked upstream)
+fb.html-load.com
+fb.stg.html-load.com
+# Future plc advertising and audience-data hosts
+go.future-advertising.com
+cache.pythia.futureplc.com
+# Quiz/engagement ad widget
+kwizly.com
+# Affiliate "deals" widgets (TechRadar / Future hawk)
+hawk.techradar.com
+widgets.hawk-assets.co.uk
